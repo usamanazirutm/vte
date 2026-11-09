@@ -1,5 +1,5 @@
-# Verify-then-Explain (VtE)
-
+# Verify-then-Explain (VtE) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24066000.svg)](https://doi.org/10.5281/zenodo.24066000)
+    
 Code and data for the paper **"Verify-then-Explain: Detecting and Repairing Unfaithful Large Language Model Explanations in Network Intrusion Detection"** by Muhammad Usama Nazir and Md. Asri Ngadi (Universiti Teknologi Malaysia). Manuscript under review.
 
 VtE checks every claim an LLM makes when explaining an intrusion alert against the detector's own evidence (SHAP values, benign-traffic percentiles, class probabilities, a counterfactual probe), labels each claim supported, contradicted or unverifiable, and sends contradicted claims back to the model for repair.
