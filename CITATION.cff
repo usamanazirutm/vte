@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+title: "Verify-then-Explain: Detecting and Repairing Unfaithful Large Language Model Explanations in Network Intrusion Detection"
+authors:
+  - family-names: Nazir
+    given-names: Muhammad Usama
+    affiliation: Universiti Teknologi Malaysia
+  - family-names: Ngadi
+    given-names: Md. Asri
+    affiliation: Universiti Teknologi Malaysia
+license: MIT
+date-released: 2026-11-10

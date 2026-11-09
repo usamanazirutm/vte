@@ -1,0 +1,7 @@
+# raw and prepared datasets are not redistributed
+prepared/
+data/
+*.csv.gz
+__pycache__/
+*.pyc
+*.part
